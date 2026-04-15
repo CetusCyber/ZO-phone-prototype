@@ -1,7 +1,5 @@
 [العربية](README.ar.md) | [English](README.md) | Deutsch
 
-# ZO Orchestrator – Telefon-Prototyp
-
 ---
 
 
