@@ -1,7 +1,5 @@
 العربية | [English](README.md) | [Deutsch](README.de.md)
 
-# ZO Orchestrator – النسخة التجريبية على الهاتف
-
 ---
 
 # 📱 ZO Orchestrator – النسخة التجريبية على الهاتف
