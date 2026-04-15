@@ -1,6 +1,5 @@
 [العربية](README.ar.md) | English | [Deutsch](README.de.md)
 
-# ZO Orchestrator – Phone Prototype
 ---
 
 # 📱 ZO Orchestrator – Mobile Prototype
