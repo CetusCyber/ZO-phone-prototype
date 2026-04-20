@@ -11,6 +11,15 @@
 
 ---
 
+```text
+Ecosystem
+└─ ZO Orchestrator (Mobile Prototype)
+   ├─ Android + Termux (Base)
+   ├─ Ubuntu via proot-distro (Linux Layer)
+   ├─ Ollama with local LLMs (AI Layer)
+   └─ NetHunter (Security Layer)
+```
+
 ## 🎯 Objectives
 * 🔧 Transforming a smartphone into a high-tech experimental platform.
 * 🤖 Testing AI and Cybersecurity capabilities on mobile devices.
